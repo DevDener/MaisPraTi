@@ -1,2 +1,2 @@
 # MaisPraTi
-Fullstack Dev. Bootcamp
+Fullstack Developer Bootcamp
